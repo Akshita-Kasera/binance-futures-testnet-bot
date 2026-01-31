@@ -2,7 +2,7 @@
 
 Author: Akshita Kasera
 
-This project is a Streamlit-based Python trading bot created as part of a Python Developer internship assignment.
+This project is a Streamlit-based trading bot built in Python that connects to Binance Futures Testnet to place MARKET, LIMIT, and STOP orders with logging and validation.
 
 ## Features
 - Market, Limit and Stop orders
@@ -17,3 +17,4 @@ streamlit run trading_app.py
 
 ## Notes
 This bot is designed for Binance Futures Testnet only (paper trading).
+
